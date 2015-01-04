@@ -4,6 +4,12 @@
 
 ## Chrome extension for reddit or some other popular site like lobste.rs that is similar to hacker news tiling on homepage
 
+# Modules
+
+## Angular webcam
+
+Webcam that can take video and photos with filter functionalities
+
 # App
 
 ## Split time
@@ -30,3 +36,15 @@ Social dress democracy
 reddit/pintrest for dressing
 
 ## Learn to type on smart phone without keyboards
+
+## Cloud Reading application
+Sync reading progress amongst your own books
+
+Book stats :
+* How often you read
+* Set goals
+* Share quotes
+* Share saved words
+* Get reminders
+
+Integrate with cloud storage services
