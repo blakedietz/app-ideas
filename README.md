@@ -1,15 +1,3 @@
-# Chrome extension
-
-## Show open tabs in chrome specifically in full screen
-
-## Chrome extension for reddit or some other popular site like lobste.rs that is similar to hacker news tiling on homepage
-
-# Modules
-
-## Angular webcam
-
-Webcam that can take video and photos with filter functionalities
-
 # App
 
 ## Split time
@@ -48,3 +36,15 @@ Book stats :
 * Get reminders
 
 Integrate with cloud storage services
+
+# Chrome extension
+
+## Show open tabs in chrome specifically in full screen
+
+## Chrome extension for reddit or some other popular site like lobste.rs that is similar to hacker news tiling on homepage
+
+# Modules
+
+## Angular webcam
+
+Webcam that can take video and photos with filter functionalities
