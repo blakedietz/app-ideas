@@ -2,10 +2,10 @@
 
 ## Bike theft map
 
-## Cloud Reading application
+## Cloud Reading Application
 Sync reading progress amongst your own books
 
-Book stats :
+Book Stats :
 * How often you read
 * Set goals
 * Share quotes
