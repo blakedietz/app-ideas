@@ -2,13 +2,9 @@
 
 ## Show open tabs in chrome specifically in full screen
 
-## Chrome extension for reddit or some other popular site like lobste.rs
+## Chrome extension for reddit or some other popular site like lobste.rs that is similar to hacker news tiling on homepage
 
 # App
-
-## 50 shades of gray kama sutra applicaiton
-
-The title says it all. Mainly looking to play off of the hype of the movie in January.
 
 ## Split time
 
@@ -26,13 +22,9 @@ Probably use some sort of machine learning algorithms to identify if a v0 is a t
 
 Make a similar service that lists the top posts as tiles
 
-## Phone app
+## Full e-commerce site for dad
 
-## wcathink
-
-## Endler Shop Project
-
-## Dress up
+## Dressup.com
 
 Social dress democracy
 reddit/pintrest for dressing
