@@ -22,8 +22,8 @@ Make a similar service that lists the top posts as tiles
 
 ## Dressup.com
 
-Social dress democracy
-reddit/pintrest for dressing
+* Social dress democracy
+* reddit/pintrest for dressing
 
 ## Full e-commerce site for dad
 
@@ -39,7 +39,7 @@ A real time application that tracks your time against a pre-determined route.  S
 
 Probably use some sort of machine learning algorithms to identify if a v0 is a transcode.
 
-# Chrome extension
+# Chrome Extension
 
 ## Show open tabs in chrome specifically in full screen
 
@@ -50,3 +50,11 @@ Probably use some sort of machine learning algorithms to identify if a v0 is a t
 ## Angular webcam
 
 Webcam that can take video and photos with filter functionalities
+
+# Websites
+
+## Informational
+
+### Mechanical keyboard switch comparison
+
+Compare cherry switches to other switches
