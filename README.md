@@ -27,6 +27,8 @@ Make a similar service that lists the top posts as tiles
 
 ## Full e-commerce site for dad
 
+## Mood log
+
 ## Learn to type on smart phone without keyboards
 
 ## Spell Tower Solver
