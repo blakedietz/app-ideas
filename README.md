@@ -20,12 +20,7 @@ Make a similar service that lists the top posts as tiles
 
 ## Diagnose Car Engine from Audio Recording
 
-## Dressup.com
 
-* Social dress democracy
-* reddit/pintrest for dressing
-
-## Full e-commerce site for dad
 
 ## Mood log
 
@@ -55,8 +50,20 @@ Webcam that can take video and photos with filter functionalities
 
 # Websites
 
+## Dressup.com
+
+* Social dress democracy
+* reddit/pintrest for dressing
+
+## Full e-commerce site for dad
+
 ## Informational
 
 ### Mechanical keyboard switch comparison
 
 Compare cherry switches to other switches
+
+### Open source recipes
+
+### Open source workouts
+Have a social site built on top of a dictionary of exercises. Create a workout playlist. Have users vote and fork worouts. Basically a diy.soylent.
