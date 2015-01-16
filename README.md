@@ -50,6 +50,10 @@ Webcam that can take video and photos with filter functionalities
 
 # Websites
 
+## Spotify playlist from treefort
+
+Make a spotify playlist of all the artists the user adds to their schedule list.
+
 ## Dressup.com
 
 * Social dress democracy
