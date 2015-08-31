@@ -6,7 +6,9 @@ Have an audio interface for reading off a list.
 
 ### Use case 
 
-Could use this for grocery shopping. Instead of looking through the list you could just use forward and backward track iPhone controls. (e.g. double tap for next item, triple tap for previous item, quadruple tap for removal).
+Could use this for grocery shopping.
+
+Instead of looking through the list you could just use forward and backward track iPhone controls. (e.g. double tap for next item, triple tap for previous item, quadruple tap for removal).
 
 ## Bike theft map
 
