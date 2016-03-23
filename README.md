@@ -12,25 +12,11 @@ Instead of looking through the list you could just use forward and backward trac
 
 ## Bike theft map
 
-## Cloud Reading Application
-Sync reading progress amongst your own books
-
-Book Stats :
-* How often you read
-* Set goals
-* Share quotes
-* Share saved words
-* Get reminders
-
-Integrate with cloud storage services
-
 ## Compare the repetitiveness of different radio stations
 
 Make a similar service that lists the top posts as tiles
 
 ## Diagnose Car Engine from Audio Recording
-
-## Mood log
 
 ## Learn to type on smart phone without keyboards
 
@@ -44,17 +30,13 @@ A real time application that tracks your time against a pre-determined route.  S
 
 Probably use some sort of machine learning algorithms to identify if a v0 is a transcode.
 
-# Chrome Extension
+# Chrome Extensions
 
-## Show open tabs in chrome specifically in full screen
+## Boise Library Amazon Link
 
-## Chrome extension for reddit or some other popular site like lobste.rs that is similar to hacker news tiling on homepage
+A chrome extension that shows a link to the corresponding book when you're viewing it on amazon.
 
 # Modules
-
-## Angular webcam
-
-Webcam that can take video and photos with filter functionalities
 
 # Websites
 
