@@ -40,27 +40,11 @@ A chrome extension that shows a link to the corresponding book when you're viewi
 
 # Websites
 
-## Spotify playlist from treefort
-
-Make a spotify playlist of all the artists the user adds to their schedule list.
-
 ## Dressup.com
 
-* Social dress democracy
-* reddit/pintrest for dressing
 
-## Informational
+## Open source recipes
 
-### Mechanical keyboard switch comparison
-
-Compare cherry switches to other switches
-
-### Open source recipes
-
-### Open source workout
+## Open source workout
 
 A social site built on top of a wiki of exercises. Create a workout playlist. Users can vote for and fork workouts.
-
-# Scripts
-
-## Parse source code for branch tags to create unfuddle work items
