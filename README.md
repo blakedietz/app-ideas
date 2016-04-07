@@ -42,7 +42,6 @@ A chrome extension that shows a link to the corresponding book when you're viewi
 
 ## Dressup.com
 
-
 ## Open source recipes
 
 ## Open source workout
