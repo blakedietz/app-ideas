@@ -36,7 +36,7 @@ Probably use some sort of machine learning algorithms to identify if a v0 is a t
 
 A chrome extension that shows a link to the corresponding book when you're viewing it on amazon.
 
-# Modules
+## Bug ticket generator
 
 # Websites
 
@@ -49,8 +49,6 @@ Make a spotify playlist of all the artists the user adds to their schedule list.
 * Social dress democracy
 * reddit/pintrest for dressing
 
-## Full e-commerce site for dad
-
 ## Informational
 
 ### Mechanical keyboard switch comparison
@@ -59,8 +57,9 @@ Compare cherry switches to other switches
 
 ### Open source recipes
 
-### Open source workouts
-Have a social site built on top of a dictionary of exercises. Create a workout playlist. Have users vote and fork worouts. Basically a diy.soylent.
+### Open source workout
+
+A social site built on top of a wiki of exercises. Create a workout playlist. Users can vote for and fork workouts.
 
 # Scripts
 
