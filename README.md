@@ -55,3 +55,9 @@ A chrome extension that shows a link to the corresponding book when you're viewi
 ## Open source workout
 
 A social site built on top of a wiki of exercises. Create a workout playlist. Users can vote for and fork workouts.
+
+# Scripts
+
+## Blog logo
+
+Create a color blind logo with my initials in it that uses the force layout.
