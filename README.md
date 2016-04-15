@@ -61,3 +61,4 @@ A social site built on top of a wiki of exercises. Create a workout playlist. Us
 ## Blog logo
 
 Create a color blind logo with my initials in it that uses the force layout.
+- http://bl.ocks.org/mbostock/3231298
