@@ -4,6 +4,10 @@
 
 There's nothing new here. The main reason for making this application would be to create a project that can be both used and worked on at the Boise Frontend meetup.
 
+## Ergodox layout network
+
+The one place where you can share all of your ergodox layouts. Vote for your favorite layouts. Create a configurator.
+
 ## Audible list
 
 Have an audio interface for reading off a list.
