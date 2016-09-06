@@ -1,5 +1,15 @@
 # Apps
 
+## Zillow for dogs
+
+- notifies you of a breed you're interested in that is within the radius and price range that you set
+- ranks breeders based upon the health of their dogs and reviews of customers
+- gives breeders a single place to
+ - post their dogs for sale
+ - show credentials with the akc
+ - allows for creation of questionnaires for potential buyers
+ - simplify the deposit and purchase process
+
 ## Polling application
 
 There's nothing new here. The main reason for making this application would be to create a project that can be both used and worked on at the Boise Frontend meetup.
