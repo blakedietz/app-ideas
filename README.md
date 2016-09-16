@@ -1,6 +1,6 @@
 # Apps
 
-## Foosey watch
+## Foosey watch app
 
 Add functionality for foosey watch app
 - select a game to start
