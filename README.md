@@ -1,5 +1,15 @@
 # Apps
 
+## Foosey watch
+
+Add functionality for foosey watch app
+- select a game to start
+- select the number of people to play
+- select the number of points to play
+- select people
+- create screen with four people that represent the number of points in the game
+- finish game once points have been reached
+
 ## Zillow for dogs
 
 - notifies you of a breed you're interested in that is within the radius and price range that you set
