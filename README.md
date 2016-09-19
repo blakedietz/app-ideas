@@ -1,5 +1,10 @@
 # Apps
 
+## MMO Pacman
+
+- Massively multiplayer game
+- https://github.com/kghandhi/pacman
+
 ## Foosey watch app
 
 Add functionality for foosey watch app
