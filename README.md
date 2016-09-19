@@ -87,3 +87,8 @@ A social site built on top of a wiki of exercises. Create a workout playlist. Us
 
 Create a color blind logo with my initials in it that uses the force layout.
 - http://bl.ocks.org/mbostock/3231298
+
+# Personal Site Ideas
+
+- a minimal webapp that tracks what concerts you went to and when
+- wishlist for people to see
