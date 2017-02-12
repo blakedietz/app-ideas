@@ -5,26 +5,6 @@
 - Massively multiplayer game
 - https://github.com/kghandhi/pacman
 
-## Foosey watch app
-
-Add functionality for foosey watch app
-- select a game to start
-- select the number of people to play
-- select the number of points to play
-- select people
-- create screen with four people that represent the number of points in the game
-- finish game once points have been reached
-
-## Zillow for dogs
-
-- notifies you of a breed you're interested in that is within the radius and price range that you set
-- ranks breeders based upon the health of their dogs and reviews of customers
-- gives breeders a single place to
- - post their dogs for sale
- - show credentials with the akc
- - allows for creation of questionnaires for potential buyers
- - simplify the deposit and purchase process
-
 ## Polling application
 
 There's nothing new here. The main reason for making this application would be to create a project that can be both used and worked on at the Boise Frontend meetup.
@@ -43,15 +23,7 @@ Could use this for grocery shopping without always being on the phone.
 
 Instead of looking through the list you could just use forward and backward track iPhone controls. (e.g. double tap for next item, triple tap for previous item, quadruple tap for removal).
 
-## Bike theft map
-
-## Compare the repetitiveness of different radio stations
-
-Make a similar service that lists the top posts as tiles
-
 ## Diagnose Car Engine from Audio Recording
-
-## Learn to type on smart phone without keyboards
 
 ## Spell Tower Solver
 
@@ -68,8 +40,6 @@ Probably use some sort of machine learning algorithms to identify if a v0 is a t
 ## Boise Library Amazon Link
 
 A chrome extension that shows a link to the corresponding book when you're viewing it on amazon.
-
-## Bug ticket generator
 
 # Websites
 
